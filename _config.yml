@@ -1,7 +1,7 @@
 name: Something Dark
 favicon: null
-layout_spectrum: 0.2320635428186506
-typography_spectrum: 0.5287761557847261
+layout_spectrum: 0
+typography_spectrum: 0.40176
 cta:
   domain: null
   bucket: null
